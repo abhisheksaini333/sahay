@@ -13,7 +13,7 @@
     "apollo-cache-inmemory": "^1.2.8",
     "apollo-client": "^2.4.0",
     "apollo-link-http": "^1.5.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
     "prop-types": "^15.6.2",
