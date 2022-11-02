@@ -19,7 +19,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-apollo": "^2.1.11",
-    "react-native": "^0.56.0",
+    "react-native": "^0.70.4",
     "react-native-vector-icons": "^4.6.0",
     "react-navigation": "^2.6.2",
     "react-navigation-redux-helpers": "^2.0.2",
